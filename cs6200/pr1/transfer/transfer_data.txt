@@ -1,0 +1,1 @@
+This is the data im transffering to client file "6200.txt"
